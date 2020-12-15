@@ -1,0 +1,15 @@
+{
+  "name": "jp.co.psoft.pencil_4.postprocessing.unity",
+  "version": "1.1.0",
+  "displayName": "PSOFT Pencil+ 4 Post Processing",
+  "unity": "2018.3",
+  "description": "Pencil+ 4 Line extension package for post-processing stack v2.",
+  "dependencies": {
+    "jp.co.psoft.pencil_4.line.unity": "4.0.4",
+    "com.unity.postprocessing": "2.0.0"
+  },
+  "author": {
+    "name": "P SOFTHOUSE Co., Ltd.",
+    "url": "https://www.psoft.co.jp"
+  }
+}

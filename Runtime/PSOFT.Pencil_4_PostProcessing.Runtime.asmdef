@@ -1,0 +1,17 @@
+{
+    "name": "PSOFT.Pencil_4_PostProcessing.Runtime",
+    "references": [
+        "Unity.Postprocessing.Runtime",
+        "PSOFT.Pencil_4.Editor",
+        "PSOFT.Pencil_4.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
